@@ -1,0 +1,8 @@
+# Playwright
+node_modules/
+playwright-report/
+test-results/
+cucumber-report.html
+screenshots/
+.env
+.DS_Store
