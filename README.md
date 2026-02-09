@@ -22,7 +22,7 @@ This framework:
 ├── page-objects/ # Page Object Model classes
 ├── step_definitions/ # Step definition code linking feature steps
 ├── support/ # Hooks and World config for Cucumber
-├── utils/ # Helpers (if any)
+├── utils/ # Helpers
 ├── .gitignore
 ├── package.json
 ├── playwright.config.js
