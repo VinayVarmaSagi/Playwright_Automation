@@ -1,4 +1,0 @@
-[ 'ADIDAS ORIGINAL', 'ZARA COAT 3', 'iphone 13 pro' ]
-text is British Indian Ocean Territory
-text is India
- | 6987e317dc40b48f12c5aeb3 | 

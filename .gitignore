@@ -6,3 +6,6 @@ cucumber-report.html
 screenshots/
 .env
 .DS_Store
+# Allure reports and results
+allure-report/
+allure-results/
